@@ -1,10 +1,6 @@
 <html>
   <body>
-    <style>
-      p {
-      color:rgb(255,0,255);
-      }
-    </style>
+        <title>kyle's webpage</title>
     <p><strong>bruh</strong></p>
   </body>
   </html>
