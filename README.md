@@ -1,5 +1,5 @@
 <html>
   <body>
-    <p>bruh</p>
+    <p><strong>bruh</strong></p>
   </body>
   </html>
